@@ -1,2 +1,1 @@
-# rsschool-cv
-cv
+https://webjsmaster.github.io/rsschool-cv/cv
